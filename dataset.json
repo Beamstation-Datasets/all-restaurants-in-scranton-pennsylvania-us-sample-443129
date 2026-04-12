@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Scranton, Pennsylvania. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Scranton, Pennsylvania, US",
+  "export_job_id": "ec66955f-5b14-41a7-8d62-64bb198889b2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 443129,
+  "location_name": "Scranton",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-scranton-pennsylvania-us-sample-443129",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/443129/beamstation_443129_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 56,
+  "sample_sha256": "04aa5727801cff4805b10b7e01a7a4ad195c2b72044a9f190017ad3d31a6277c",
+  "sample_size_bytes": 204060,
+  "total_records": 562,
+  "updated_at": "2026-04-09T09:35:56.424385+00:00"
+}
