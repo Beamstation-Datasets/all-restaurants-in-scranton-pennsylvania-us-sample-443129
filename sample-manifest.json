@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ec66955f-5b14-41a7-8d62-64bb198889b2",
+  "export_job_id": "43f9de83-0843-4966-ad70-b9628c6e7482",
   "id_short": 443129,
-  "published_at": "2026-04-12T08:00:48Z",
+  "published_at": "2026-04-19T08:00:58Z",
   "repo_name": "all-restaurants-in-scranton-pennsylvania-us-sample-443129",
   "sample_asset_name": "beamstation_443129_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/443129/beamstation_443129_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 56,
-  "sample_sha256": "04aa5727801cff4805b10b7e01a7a4ad195c2b72044a9f190017ad3d31a6277c",
-  "sample_size_bytes": 204060,
-  "total_records": 562
+  "sample_records": 55,
+  "sample_sha256": "bbec702ce8d912aade719bee52c4a672d2e2857f08cf53fc276c121c6fc0a839",
+  "sample_size_bytes": 197946,
+  "total_records": 554
 }
